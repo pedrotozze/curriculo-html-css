@@ -4,5 +4,5 @@ Projeto para estudo onde criei meu currículo na versão web. Você pode visuali
 ## Tecnologias utilizadas
     - HTML5
     - CSS3
-    - [Bootsrap](https://getbootstrap.com/)
+    - Bootstrap
     
